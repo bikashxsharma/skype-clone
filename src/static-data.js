@@ -18,7 +18,7 @@ export const getMessages = messagesPerUser => {
 // just an example of how the state object is structured
 export const state = {
   user: generateUser(),
-  messages: getMessages(10),
+  messages: getMessages(20),
   typing: "",
   contacts,
   activeUserId: null
