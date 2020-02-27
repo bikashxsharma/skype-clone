@@ -5,7 +5,7 @@
   .Message__input {
     width: 100%;
     padding: 1rem;
-    background: rgba(0, 0, 0, 0.8);
+    background: linear-gradient(90deg, #ebebf5, #e7ebee);
     color: #fff;
     border: 0;
     border-radius: 10px;

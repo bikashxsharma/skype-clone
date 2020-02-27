@@ -9,16 +9,16 @@
   }
   .Chat {
     margin: 1rem 0;
-    color: #fff;
+    color: rgb(63, 61, 61);
     padding: 1rem;
-    background: linear-gradient(90deg, #1986d8, #7b9cc2);
+    background: linear-gradient(90deg, #ebebf5, #e7ebee);
     max-width: 90%;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
   }
   .Chat.is-user-msg {
     margin-left: auto;
-    background: #2b2c33;
+    background: #35d15c;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
     border-top-left-radius: 10px;

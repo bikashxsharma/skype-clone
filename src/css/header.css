@@ -1,7 +1,12 @@
 .Header {
     padding: 1rem 2rem;
-    border-bottom: 1px solid rgba(189, 189, 192, 0.2);
+    border-bottom: 1px solid rgba(79, 79, 182, 0.2);
+    
   }
   .Header__name {
-    color: #fff;
+    color: #302e2e;
+  }
+  .Header__status{
+    color: #302e2e;
+
   }
